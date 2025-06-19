@@ -148,6 +148,9 @@ body {
   .search-box1 {
     /* width: 450rem; */
   }
+  .search-btn1 {
+    font-size: 10px;
+  }
   .point1 {
     margin-bottom: 10px;
   }
