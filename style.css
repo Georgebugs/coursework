@@ -324,8 +324,6 @@ body {
 }
 .logo530 {
 /*   padding-left: 2%; */
-  display: flex;
-  justify-content: center;
   margin: 20px 20px;
   /* margin-right: 30px; */
 }
